@@ -13,4 +13,7 @@ font-family: scans-serif;
 .btn{ 
     /* to styling Button */
     background-color:coral;
+    padding: 20px 40px;
+    /*it  used to create space around an element's content, inside of any defined borders
+    40 for top and bottom , 80px for left and right it,s a defult we can add value for every one */
 }
