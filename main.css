@@ -21,4 +21,6 @@ font-family: scans-serif;
     /* to define element position ,
      relative It will move relative to its current position on the page
     , without affecting the elements around it  */
+    box-shadow:0px 4px 8px 0 burlywood inset;
+    /* H-shadow | v-shadow | Blure| spread | color |inset */ 
 }
