@@ -48,5 +48,6 @@ font-family: scans-serif;
     transform: translate(-50%,-50%); 
     /* transform=> allows us to transform the shape of element in 2D or 3D space
     translate=> (x,y) */
-   
+    border-radius: 50%;
+    transition: width 0.5s,height 0.5s;
 }
