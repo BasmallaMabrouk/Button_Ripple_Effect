@@ -23,4 +23,5 @@ font-family: scans-serif;
     , without affecting the elements around it  */
     box-shadow:0px 4px 8px 0 burlywood inset;
     /* H-shadow | v-shadow | Blure| spread | color |inset */ 
+    text-decoration: none;
 }
