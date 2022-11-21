@@ -51,3 +51,10 @@ font-family: scans-serif;
     border-radius: 50%;
     transition: width 0.5s,height 0.5s;
 }
+.btn:hover::before{ 
+    /* The:hover CSS pseudo-class matches when the user interacts with an element
+     with a pointing device, but does not necessarily activate it. 
+     It is generally triggered when the user hovers over an element with the cursor */
+    width: 200px;
+    height: 200px;
+}
