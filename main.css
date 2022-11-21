@@ -35,4 +35,18 @@ font-family: scans-serif;
     z-index => responsible for determining where the element is in the layer
     and 1 is a normal defulte value */
 }
-
+.btn::before{
+    content: " ";
+    position: absolute;
+    background-color: brown;
+    width: 0;
+    height: 0; 
+    left:var(--xpos);
+    /* x position */
+    top: var(--ypos);
+    /* y position */
+    transform: translate(-50%,-50%); 
+    /* transform=> allows us to transform the shape of element in 2D or 3D space
+    translate=> (x,y) */
+   
+}
