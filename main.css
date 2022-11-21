@@ -6,4 +6,7 @@ body{
     height: 100vh;
 align-items: center; 
 /* align items it's like justify-content but in orthogonal direction */
+background-color: aliceblue;
+font-family: scans-serif; 
+/* font-family these fonts contian one or more special font to be applied to the elements */
 } 
