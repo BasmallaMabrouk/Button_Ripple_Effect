@@ -17,4 +17,8 @@ font-family: scans-serif;
     /*it  used to create space around an element's content, inside of any defined borders
     40 for top and bottom , 80px for left and right it,s a defult we can add value for every one */
     color: black; 
+    position: relative; 
+    /* to define element position ,
+     relative It will move relative to its current position on the page
+    , without affecting the elements around it  */
 }
