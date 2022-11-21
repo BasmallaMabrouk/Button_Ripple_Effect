@@ -24,4 +24,6 @@ font-family: scans-serif;
     box-shadow:0px 4px 8px 0 burlywood inset;
     /* H-shadow | v-shadow | Blure| spread | color |inset */ 
     text-decoration: none;
-}
+    overflow: hidden;
+    /* You can use the overflow property when you want to have better control of the layout.
+     The overflow property specifies what happens if content overflows an element's box.*/
