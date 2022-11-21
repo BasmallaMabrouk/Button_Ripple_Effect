@@ -10,3 +10,7 @@ background-color: aliceblue;
 font-family: scans-serif; 
 /* font-family these fonts contian one or more special font to be applied to the elements */
 } 
+.btn{ 
+    /* to styling Button */
+    background-color:coral;
+}
